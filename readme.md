@@ -2,8 +2,10 @@
 
 ![Flutter](https://img.shields.io/badge/status-release-<COLOR>)
 
+![интро](./images/howotolearn.gif)
+
 ## **Описание проекта**
-Лендинг на тему обучения
+Лендинг на тему обучения. Вёрстка по макету, использовал Flexbox, keyframes, анимации. Проект проходил код-ревью.
 Посмотреть можно [здесь](https://arseny-arsenyevich.github.io/how-to-learn/)
 
 ## **Стек**
